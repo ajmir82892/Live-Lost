@@ -7,14 +7,7 @@ div align="center">
 # 🌌 YTR
 <div align="center">
 
-<pre>
-██╗   ██╗███████╗██╗     ██╗   ██╗███╗   ██╗███████╗
-██║   ██║██╔════╝██║     ██║   ██║████╗  ██║██╔════╝
-██║   ██║█████╗  ██║     ██║   ██║██╔██╗ ██║█████╗
-╚██╗ ██╔╝██╔══╝  ██║     ██║   ██║██║╚██╗██║██╔══╝
- ╚████╔╝ ███████╗███████╗╚██████╔╝██║ ╚████║███████╗
-  ╚═══╝  ╚══════╝╚══════╝ ╚═════╝ ╚═╝  ╚═══╝╚══════╝
-</pre>
+<pre 
 
 </div>
 
@@ -81,9 +74,9 @@ div align="center">
 </div>
 
 
-## 🚀 Why Velune?
+## 🚀 Why YTR?
 
-Velune is not just another music player — it's a **complete reimagination of YouTube Music**.
+YTR is not just another music player — it's a **complete reimagination of YouTube Music**.
 
 * ⚡ **Faster** than the official app
 * 🎵 Built for audiophiles & power users
@@ -107,20 +100,6 @@ Experience lyrics like never before:
 
 ---
 
-## 📸 Preview
-
-<div align="center">
-
-<img src="screenshots/Home.png" width="140"/>
-<img src="screenshots/Now Playing.png" width="140"/>
-<img src="screenshots/History.png" width="140"/>
-<img src="screenshots/Stats.png" width="140"/>
-
-<br/>
-
-<img src="screenshots/Library.png" width="140"/>
-<img src="screenshots/Settings.png" width="140"/>
-<img src="screenshots/About.png" width="140"/>
 
 </div>
 
@@ -182,7 +161,7 @@ Built using **modern Android engineering principles**:
 ## 📂 Project Structure
 
 ```bash
-velune/
+YTR/
 ├── app/
 ├── innertube/
 ├── lrclib/
@@ -200,7 +179,5 @@ Android SDK 34+ \
 Run Locally\
 Bash
 ```
-git clone https://github.com/nikhilvishwakarma00/Velune.git\
-cd Velune\
 
 ```
